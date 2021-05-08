@@ -11,7 +11,10 @@ http://snap.stanford.edu/data/
 and
 http://networkrepository.com/index.php
 
-The code has been split into 7 sections:
+******************************************************************************************************************************************************************************
+Details for submission at the end of the semester:
+
+The code has been split into 7 sections,
 
 * Section 1:
 Attempt to open the user input file, and use networkx to read the graph from the file. If 'drawGraph' is selected, the program will draw the graph that was stored in the file.
